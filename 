@@ -1,0 +1,78 @@
+[33mcommit 7da5c9b04839012846d33c99c545da15aa55681a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 282a132 b9770be
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Mon Aug 22 00:37:54 2022 +0000
+
+    conflict resolved
+
+[33mcommit 282a132ef1e454791cf246dccdc2233f105ae6a3[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Mon Aug 22 00:29:32 2022 +0000
+
+    master deployment
+
+[33mcommit b9770bedb864fd75970f6c20cd26492d400174e5[m[33m ([m[1;32mdev[m[33m)[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Mon Aug 22 00:27:47 2022 +0000
+
+    deployment4 file
+
+[33mcommit c0d4e6fb3309f67718e7d48d3988ab2a422b11c2[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Mon Aug 22 00:20:38 2022 +0000
+
+    dev env deployment
+
+[33mcommit 62d49bd6118c15732baa03193b63d73fc7739bee[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sun Aug 21 22:22:54 2022 +0000
+
+    .gitignore file created
+
+[33mcommit 2e825f8e1bddd483be85ed448944d66a50d67305[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sat Aug 20 22:18:50 2022 +0000
+
+    saturday changes
+
+[33mcommit be95d6187215e13240acffc729e42526c44fbe2d[m[33m ([m[1;31mbaba/master[m[33m)[m
+Author: oolowe <55073509+oolowe@users.noreply.github.com>
+Date:   Fri Aug 19 23:58:16 2022 -0400
+
+    Create monitor.app
+
+[33mcommit f7b8b41a0e86c3eb6ce13a090f65bd48c4ccac5c[m
+Author: oolowe <55073509+oolowe@users.noreply.github.com>
+Date:   Fri Aug 19 23:50:16 2022 -0400
+
+    I update list.java with chi and ope
+
+[33mcommit ecc03fc437a827b57d2d6116972f8da7fb8e5c42[m[33m ([m[1;31mtt/master[m[33m)[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sat Aug 20 03:34:58 2022 +0000
+
+    user's list created
+
+[33mcommit 1d3f67346898e5e986816f445f1705f86c108586[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sat Aug 20 02:40:06 2022 +0000
+
+    version2
+
+[33mcommit 2f99510f9bad909eb6abf4247045b7ab05e005ab[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sat Aug 20 02:26:59 2022 +0000
+
+    deployment file added
+
+[33mcommit 42a59b9bd01b9a09156668a47f16d8a5999c0fc6[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sat Aug 20 02:26:16 2022 +0000
+
+    tools added
+
+[33mcommit 21147d6c75e7fab7e577c1364e366485e79356b7[m
+Author: Olatunde Olowe <oloweolatunde@yahoo.com>
+Date:   Sat Aug 20 02:18:14 2022 +0000
+
+    my second commit
